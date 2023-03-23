@@ -4,14 +4,14 @@ h2, h3, h4, p {
 
 html {
   display: flex;
-  align-items: center;
-  height: 100%;
-  justify-content: center;
   box-sizing: border-box;
   font-family: 'karla', sans-serif;
   background: #e5eff5;
   font-weight: 900;
-  font-size: 16px
+  font-size: 16px;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
 }
 
 *, *:before, *:after {
