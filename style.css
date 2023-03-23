@@ -107,7 +107,9 @@ html {
 }
 
 button:hover {
-  cursor: pointer
+  cursor: pointer;
+  transform: scale(1.1, 1.1);
+  background: #bbd44a;
 }
 
 button {
